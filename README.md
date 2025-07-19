@@ -81,15 +81,20 @@ Save output images to a new folder
 
 ## 📌 Results
 
-## ![Car](car.png)  
+### 🛻 Car Image
+![Car](car.png)
 
-## ![Clock](clock.png)  
+### 🛳 Dock Image
+![Dock](dock.png)
 
-## ![People 1](people1.png)  
+### 👨‍👩‍👧 People Image 1
+![People 1](people1.png)
 
-## ![People 2](people2.png)  
+### 👩‍👩‍👦 People Image 2
+![People 2](people2.png)
 
-## ![People 3](people3.png)
+### 🧑‍🤝‍🧑 People Image 3
+![People 3](people3.png)
 
 ---
 
