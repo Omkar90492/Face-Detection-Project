@@ -80,6 +80,8 @@ Save output images to a new folde
 ---
 
 ### 🚀 Quick Tips
+-------------
+
 ✅ Use grayscale images for better performance
 
 📌 Tune scaleFactor and minNeighbors for accuracy
@@ -91,6 +93,8 @@ Save output images to a new folde
 ---
 
 ### ✅ 📦 Prerequisites
+-------------
+
 Before running this project, ensure you have the following installed:
 
 Python 3.7 or higher
@@ -106,11 +110,15 @@ pip (Python package installer)
 ---
 
 ### ✅ 📌 Conclusion
+-------------
+
 This project demonstrates how face detection can be performed using OpenCV’s Haar Cascades. It is a great foundation for real-time face detection systems like surveillance, access control, or face tracking.
 
 ---
 
 ### ✅ 📌 Key outcomes
+-------------
+
 Successfully applied Haar Cascades for face detection
 
 Handled multiple input images and saved processed results
