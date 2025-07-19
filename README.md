@@ -83,7 +83,7 @@ Save output images to a new folder
 
 ## ![Car](car.png)  
 
-## ![Dock](dock.png)  
+## ![Clock](clock.png)  
 
 ## ![People 1](people1.png)  
 
