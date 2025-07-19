@@ -84,7 +84,7 @@ Save output images to a new folder
 ### 🛻 Car Image
 ![Car](car.png)
 
-### 🛳 clock Image
+### 🛳 Clock Image
 ![clock](clock.png)
 
 ### 👨‍👩‍👧 People Image 1
