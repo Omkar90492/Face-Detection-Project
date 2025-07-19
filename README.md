@@ -75,9 +75,24 @@ Detect faces using the Haar cascade model
 
 Draw bounding boxes around detected faces
 
-Save output images to a new folde
+Save output images to a new folder
 
 ---
+
+## 📌 Results
+
+## ![Car](car.png)  
+
+## ![Dock](dock.png)  
+
+## ![People 1](people1.png)  
+
+## ![People 2](people2.png)  
+
+## ![People 3](people3.png)
+
+---
+
 
 ### 🚀 Quick Tips
 -------------
