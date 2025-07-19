@@ -81,8 +81,11 @@ Save output images to a new folde
 
 ### 🚀 Quick Tips
 ✅ Use grayscale images for better performance
+
 📌 Tune scaleFactor and minNeighbors for accuracy
+
 🧠 Extend this to live webcam or video feed
+
 🗂️ Organize images into input/output folders
 
 ---
@@ -112,10 +115,7 @@ Successfully applied Haar Cascades for face detection
 
 Handled multiple input images and saved processed results
 
-Demonstrated real-time applicable face detection pipeline
+Demonstrated real-time applicable face detection pipeline.
 
-yaml
-Copy
-Edit
 
 
