@@ -70,7 +70,10 @@ python face_detect.py
 The script will:
 
 Load sample images from the /images folder
+
 Detect faces using the Haar cascade model
+
 Draw bounding boxes around detected faces
+
 Save output images to a new folde
 
