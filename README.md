@@ -118,6 +118,7 @@ This project demonstrates how face detection can be performed using OpenCV’s H
 
 ### ✅ 📌 Key outcomes
 
+---
 
 Successfully applied Haar Cascades for face detection
 
